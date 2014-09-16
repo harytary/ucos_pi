@@ -1,5 +1,5 @@
 
-ARMGNU ?= arm-none-eabi
+ARMGNU ?= arm-linux-gnueabihf
 
 INCLUDEPATH ?= "./h"
 
